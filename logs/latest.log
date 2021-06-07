@@ -1,56 +1,233 @@
-[17:34:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[17:34:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[17:34:46] [Worker-Main-8/INFO]: Loaded 7 recipes
-[17:34:47] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[17:34:47] [Server thread/INFO]: Loading properties
-[17:34:47] [Server thread/INFO]: This server is running Paper version git-Paper-769 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[17:34:47] [Server thread/INFO]: Debug logging is disabled
-[17:34:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[17:34:47] [Server thread/INFO]: Using 4 threads for Netty based IO
-[17:34:47] [Server thread/INFO]: Default game type: SURVIVAL
-[17:34:47] [Server thread/INFO]: Generating keypair
-[17:34:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:34:47] [Server thread/INFO]: Using default channel type
-[17:34:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[17:34:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:34:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:34:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:34:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:34:48] [Server thread/INFO]: Preparing level "world"
-[17:34:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:34:48] [Server thread/INFO]: Preparing spawn area: 0%
-[17:34:48] [Server thread/INFO]: Time elapsed: 229 ms
-[17:34:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[17:34:48] [Server thread/INFO]: Preparing spawn area: 0%
-[17:34:48] [Server thread/INFO]: Preparing spawn area: 0%
-[17:34:49] [Server thread/INFO]: Time elapsed: 938 ms
-[17:34:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[17:34:49] [Server thread/INFO]: Preparing spawn area: 0%
-[17:34:49] [Server thread/INFO]: Time elapsed: 328 ms
-[17:34:49] [Server thread/INFO]: Running delayed init tasks
-[17:34:49] [Server thread/INFO]: Done (2.312s)! For help, type "help"
-[17:34:49] [Server thread/INFO]: Timings Reset
-[17:34:56] [User Authenticator #1/INFO]: UUID of player nimishsantosh107 is b6140c29-7f23-3210-b81c-df1ae1b0d2df
-[17:34:56] [Server thread/INFO]: nimishsantosh107 joined the game
-[17:34:56] [Server thread/INFO]: nimishsantosh107[/127.0.0.1:55841] logged in with entity id 243 at ([world]174.32506843465794, 64.0, 220.15622518454296)
-[17:35:10] [Server thread/INFO]: Villager EntityVillager['Villager'/184, uuid='05d9a39b-256e-4a60-9b97-a3dd5f29e658', l='ServerLevel[world]', x=201.30, y=63.00, z=287.50, cx=12, cz=17, tl=21367, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[17:35:13] [Server thread/INFO]: nimishsantosh107 was impaled by Drowned
-[17:35:29] [Server thread/INFO]: Villager EntityVillager['Villager'/174, uuid='51a74aa7-d1b4-4ea2-abbd-dd6daae48610', l='ServerLevel[world]', x=260.30, y=64.00, z=220.70, cx=16, cz=13, tl=21759, v=true, d=false] died, message: 'Villager was slain by Zombie'
-[17:36:55] [Server thread/INFO]: nimishsantosh107 lost connection: Disconnected
-[17:36:55] [Server thread/INFO]: nimishsantosh107 left the game
-[17:37:18] [Server thread/INFO]: Stopping the server
-[17:37:18] [Server thread/INFO]: Stopping server
-[17:37:18] [Server thread/INFO]: Saving players
-[17:37:18] [Server thread/INFO]: Saving worlds
-[17:37:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:37:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:37:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:37:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:37:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:37:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:37:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:37:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:37:20] [Server thread/INFO]: Flushing Chunk IO
-[17:37:20] [Server thread/INFO]: Closing Thread Pool
-[17:37:20] [Server thread/INFO]: Closing Server
+[18:49:17] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:49:17] [main/WARN]: Missing data pack mod:forge
+[18:49:17] [main/WARN]: Missing data pack mod:tlskincape
+[18:49:17] [main/INFO]: Found new data pack file/bukkit, loading it automatically
+[18:49:17] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:49:18] [Worker-Main-5/INFO]: Loaded 7 recipes
+[18:49:19] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:49:19] [Server thread/INFO]: Loading properties
+[18:49:19] [Server thread/INFO]: This server is running Paper version git-Paper-769 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[18:49:19] [Server thread/INFO]: Debug logging is disabled
+[18:49:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:49:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:49:19] [Server thread/INFO]: Default game type: SURVIVAL
+[18:49:19] [Server thread/INFO]: Generating keypair
+[18:49:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:49:19] [Server thread/INFO]: Using default channel type
+[18:49:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:49:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:49:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:49:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:49:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:49:20] [Server thread/INFO]: Preparing level "world"
+[18:49:20] [Server thread/WARN]: Unable to find spawn biome
+[18:49:21] [Server thread/WARN]: Unable to find spawn biome
+[18:49:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:49:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:49:22] [Server thread/INFO]: Time elapsed: 175 ms
+[18:49:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:49:22] [Server thread/INFO]: Time elapsed: 327 ms
+[18:49:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:49:22] [Server thread/INFO]: Time elapsed: 331 ms
+[18:49:22] [Server thread/INFO]: Running delayed init tasks
+[18:49:22] [Server thread/INFO]: Done (3.468s)! For help, type "help"
+[18:49:22] [Server thread/INFO]: Timings Reset
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:23] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:swim_speed'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:24] [Server thread/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[18:49:37] [Server thread/INFO]: --------- Help: Index ---------------------------
+[18:49:37] [Server thread/INFO]: Use /help [n] to get page n of help.
+[18:49:37] [Server thread/INFO]: Aliases: Lists command aliases
+[18:49:37] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[18:49:37] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[18:49:37] [Server thread/INFO]: /advancement: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /attribute: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /ban: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /banlist: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /clear: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /clone: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /data: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /datapack: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /debug: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /deop: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /effect: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /enchant: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /execute: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /experience: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /fill: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /forceload: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /function: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /give: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /help: Shows the help menu
+[18:49:37] [Server thread/INFO]: /kick: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /kill: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /list: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /locate: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /locatebiome: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /loot: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /me: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /msg: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /mspt: View server tick times
+[18:49:37] [Server thread/INFO]: /op: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /paper: Paper related commands
+[18:49:37] [Server thread/INFO]: /pardon: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /particle: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /playsound: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[18:49:37] [Server thread/INFO]: /recipe: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[18:49:37] [Server thread/INFO]: /replaceitem: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /restart: Restarts the server
+[18:49:37] [Server thread/INFO]: /save-all: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /save-off: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /save-on: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /say: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /schedule: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /seed: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /setblock: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /spectate: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /spigot: Spigot related commands
+[18:49:37] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /stop: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /summon: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /tag: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /team: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /teleport: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /tell: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /time: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[18:49:37] [Server thread/INFO]: /title: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /tm: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /tp: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[18:49:37] [Server thread/INFO]: /trigger: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[18:49:37] [Server thread/INFO]: /w: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /weather: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[18:49:37] [Server thread/INFO]: /xp: A Mojang provided command.
+[18:49:43] [Server thread/INFO]: Stopping the server
+[18:49:43] [Server thread/INFO]: Stopping server
+[18:49:43] [Server thread/INFO]: Saving players
+[18:49:43] [Server thread/INFO]: Saving worlds
+[18:49:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:49:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:49:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[18:49:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:49:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[18:49:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:49:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:49:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:49:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:49:45] [Server thread/INFO]: Flushing Chunk IO
+[18:49:45] [Server thread/INFO]: Closing Thread Pool
+[18:49:45] [Server thread/INFO]: Closing Server
