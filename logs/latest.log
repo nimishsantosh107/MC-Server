@@ -1,58 +1,55 @@
-[16:56:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:56:11] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[16:56:11] [Worker-Main-5/INFO]: Loaded 7 recipes
-[16:56:12] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[16:56:12] [Server thread/INFO]: Loading properties
-[16:56:12] [Server thread/INFO]: This server is running Paper version git-Paper-769 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[16:56:12] [Server thread/INFO]: Debug logging is disabled
-[16:56:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[16:56:12] [Server thread/INFO]: Using 4 threads for Netty based IO
-[16:56:12] [Server thread/INFO]: Default game type: SURVIVAL
-[16:56:12] [Server thread/INFO]: Generating keypair
-[16:56:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:56:12] [Server thread/INFO]: Using default channel type
-[16:56:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:56:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:56:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:56:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:56:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:56:13] [Server thread/INFO]: Preparing level "world"
-[16:56:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:56:13] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:13] [Server thread/INFO]: Time elapsed: 235 ms
-[16:56:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:56:13] [Server thread/INFO]: Time elapsed: 187 ms
-[16:56:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:56:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:56:15] [Server thread/INFO]: Time elapsed: 1356 ms
-[16:56:15] [Server thread/INFO]: Running delayed init tasks
-[16:56:15] [Server thread/INFO]: Done (2.667s)! For help, type "help"
-[16:56:15] [Server thread/INFO]: Timings Reset
-[16:56:16] [User Authenticator #1/INFO]: UUID of player nimishsantosh107 is b6140c29-7f23-3210-b81c-df1ae1b0d2df
-[16:56:16] [Server thread/INFO]: nimishsantosh107 joined the game
-[16:56:17] [Server thread/INFO]: nimishsantosh107[/127.0.0.1:55515] logged in with entity id 236 at ([world]187.27255859269653, 62.9375, 220.78598435508036)
-[16:57:24] [User Authenticator #2/INFO]: UUID of player Shtevehn is 88e270c5-6331-3796-8b91-7f0e69906f99
-[16:57:24] [Server thread/INFO]: Shtevehn joined the game
-[16:57:24] [Server thread/INFO]: Shtevehn[/10.147.20.243:49938] logged in with entity id 387 at ([world]179.50157293143045, 62.9375, 215.78080526051005)
-[16:58:19] [Server thread/INFO]: nimishsantosh107 lost connection: Disconnected
-[16:58:19] [Server thread/INFO]: nimishsantosh107 left the game
-[16:58:21] [Server thread/INFO]: Shtevehn lost connection: Disconnected
-[16:58:21] [Server thread/INFO]: Shtevehn left the game
-[16:58:27] [Server thread/INFO]: Stopping the server
-[16:58:27] [Server thread/INFO]: Stopping server
-[16:58:27] [Server thread/INFO]: Saving players
-[16:58:27] [Server thread/INFO]: Saving worlds
-[16:58:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[16:58:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:58:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[16:58:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:58:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[16:58:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:58:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[16:58:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[16:58:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[16:58:28] [Server thread/INFO]: Flushing Chunk IO
-[16:58:28] [Server thread/INFO]: Closing Thread Pool
-[16:58:28] [Server thread/INFO]: Closing Server
+[17:11:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:11:58] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[17:11:59] [Worker-Main-1/INFO]: Loaded 7 recipes
+[17:12:00] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[17:12:00] [Server thread/INFO]: Loading properties
+[17:12:00] [Server thread/INFO]: This server is running Paper version git-Paper-769 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[17:12:00] [Server thread/INFO]: Debug logging is disabled
+[17:12:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:12:00] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:12:00] [Server thread/INFO]: Default game type: SURVIVAL
+[17:12:00] [Server thread/INFO]: Generating keypair
+[17:12:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:12:01] [Server thread/INFO]: Using default channel type
+[17:12:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:12:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:12:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:12:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:12:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:12:01] [Server thread/INFO]: Preparing level "world"
+[17:12:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:12:01] [Server thread/INFO]: Time elapsed: 162 ms
+[17:12:01] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:12:02] [Server thread/INFO]: Time elapsed: 131 ms
+[17:12:02] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:12:02] [Server thread/INFO]: Time elapsed: 68 ms
+[17:12:02] [Server thread/INFO]: Running delayed init tasks
+[17:12:02] [Server thread/INFO]: Done (1.464s)! For help, type "help"
+[17:12:02] [Server thread/INFO]: Timings Reset
+[17:13:04] [User Authenticator #1/INFO]: UUID of player nimishsantosh107 is b6140c29-7f23-3210-b81c-df1ae1b0d2df
+[17:13:05] [Server thread/INFO]: nimishsantosh107 joined the game
+[17:13:06] [Server thread/INFO]: nimishsantosh107[/10.147.20.65:55711] logged in with entity id 233 at ([world]188.47791144544382, 63.0, 221.82766946006237)
+[17:13:29] [Server thread/INFO]: Villager EntityVillager['Nitwit'/179, uuid='359386c4-ad68-4481-ac85-edd644df8918', l='ServerLevel[world]', x=208.70, y=67.42, z=166.16, cx=13, cz=10, tl=13667, v=true, d=false] died, message: 'Nitwit was slain by Zombie'
+[17:13:33] [User Authenticator #1/INFO]: UUID of player Shtevehn is 88e270c5-6331-3796-8b91-7f0e69906f99
+[17:13:33] [Server thread/INFO]: Shtevehn joined the game
+[17:13:33] [Server thread/INFO]: Shtevehn[/127.0.0.1:51274] logged in with entity id 337 at ([world]176.90369726872197, 64.0, 218.01409436357892)
+[17:14:22] [Server thread/INFO]: nimishsantosh107 lost connection: Disconnected
+[17:14:22] [Server thread/INFO]: nimishsantosh107 left the game
+[17:14:24] [Server thread/INFO]: Shtevehn lost connection: Disconnected
+[17:14:24] [Server thread/INFO]: Shtevehn left the game
+[17:14:37] [Server thread/INFO]: Stopping the server
+[17:14:37] [Server thread/INFO]: Stopping server
+[17:14:37] [Server thread/INFO]: Saving players
+[17:14:38] [Server thread/INFO]: Saving worlds
+[17:14:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:14:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:14:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:14:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:14:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:14:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:14:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:14:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:14:39] [Server thread/INFO]: Flushing Chunk IO
+[17:14:39] [Server thread/INFO]: Closing Thread Pool
+[17:14:39] [Server thread/INFO]: Closing Server

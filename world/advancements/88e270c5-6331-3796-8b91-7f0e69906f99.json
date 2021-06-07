@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-06-07 17:14:02 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-06-07 16:57:39 +0530"
@@ -61,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2021-06-07 17:14:11 +0530",
       "minecraft:river": "2021-06-07 16:53:16 +0530",
       "minecraft:plains": "2021-06-07 16:52:57 +0530"
     },
@@ -69,6 +76,12 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2021-06-07 16:57:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2021-06-07 17:14:02 +0530"
     },
     "done": true
   },
@@ -93,6 +106,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2021-06-07 16:57:39 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2021-06-07 17:14:02 +0530"
     },
     "done": true
   },
