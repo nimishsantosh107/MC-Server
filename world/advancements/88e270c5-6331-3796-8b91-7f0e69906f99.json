@@ -404,6 +404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2021-06-07 23:39:44 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2021-06-07 20:21:59 +0530"
@@ -443,6 +449,12 @@
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2021-06-07 19:58:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2021-06-07 23:34:55 +0530"
     },
     "done": true
   },
@@ -696,6 +708,7 @@
     "criteria": {
       "minecraft:skeleton": "2021-06-07 19:41:39 +0530",
       "minecraft:spider": "2021-06-07 20:36:07 +0530",
+      "minecraft:creeper": "2021-06-07 23:37:52 +0530",
       "minecraft:witch": "2021-06-07 22:49:50 +0530",
       "minecraft:silverfish": "2021-06-07 22:26:09 +0530",
       "minecraft:zombie": "2021-06-07 20:01:51 +0530",
