@@ -1,10 +1,11 @@
+@echo off
 ECHO "PUSHING..."
 
-For /f "tokens=2-4 delims=/ " %%a in ('date /t') do (set mydate=%%c-%%a-%%b)
-For /f "tokens=1-2 delims=/:" %%a in ('time /t') do (set mytime=%%a%%b)
-echo %mydate%_%mytime%
+set dt=%DATE:~0,2%-%DATE:~3,2%-%DATE:~6,4%_%TIME:~0,2%-%TIME:~3,2%
+set dt=%dt: =0%
+echo %dt%
 
-git status & git add . & git commit -m %mydate%_%mytime% & git push origin master
+git status & git add . & git commit -m "%dt%" & git push origin master
 
 ECHO "PUSH DONE"
 EXIT
