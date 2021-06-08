@@ -1,49 +1,89 @@
-[19:07:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:07:48] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:07:49] [Worker-Main-5/INFO]: Loaded 7 recipes
-[19:07:50] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:07:50] [Server thread/INFO]: Loading properties
-[19:07:50] [Server thread/INFO]: This server is running Paper version git-Paper-769 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[19:07:50] [Server thread/INFO]: Debug logging is disabled
-[19:07:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:07:50] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:07:50] [Server thread/INFO]: Default game type: SURVIVAL
-[19:07:50] [Server thread/INFO]: Generating keypair
-[19:07:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:07:51] [Server thread/INFO]: Using default channel type
-[19:07:51] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:07:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:07:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:07:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:07:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:07:51] [Server thread/INFO]: Preparing level "world"
-[19:07:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:07:52] [Server thread/INFO]: Preparing spawn area: 0%
-[19:07:52] [Server thread/INFO]: Time elapsed: 399 ms
-[19:07:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:07:52] [Server thread/INFO]: Preparing spawn area: 0%
-[19:07:52] [Server thread/INFO]: Preparing spawn area: 0%
-[19:07:53] [Worker-Main-7/INFO]: Preparing spawn area: 98%
-[19:07:53] [Server thread/INFO]: Time elapsed: 1078 ms
-[19:07:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:07:53] [Server thread/INFO]: Preparing spawn area: 0%
-[19:07:53] [Server thread/INFO]: Time elapsed: 437 ms
-[19:07:53] [Server thread/INFO]: Running delayed init tasks
-[19:07:53] [Server thread/INFO]: Done (2.962s)! For help, type "help"
-[19:07:53] [Server thread/INFO]: Timings Reset
-[20:20:35] [Server thread/INFO]: Stopping the server
-[20:20:35] [Server thread/INFO]: Stopping server
-[20:20:35] [Server thread/INFO]: Saving players
-[20:20:35] [Server thread/INFO]: Saving worlds
-[20:20:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:20:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:20:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[20:20:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:20:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[20:20:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:20:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:20:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:20:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:20:36] [Server thread/INFO]: Flushing Chunk IO
-[20:20:36] [Server thread/INFO]: Closing Thread Pool
-[20:20:36] [Server thread/INFO]: Closing Server
+[22:37:28] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:37:28] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[22:37:29] [Worker-Main-1/INFO]: Loaded 7 recipes
+[22:37:30] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[22:37:30] [Server thread/INFO]: Loading properties
+[22:37:30] [Server thread/INFO]: This server is running Paper version git-Paper-768 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[22:37:30] [Server thread/INFO]: Debug logging is disabled
+[22:37:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:37:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:37:30] [Server thread/INFO]: Default game type: SURVIVAL
+[22:37:30] [Server thread/INFO]: Generating keypair
+[22:37:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:37:30] [Server thread/INFO]: Using default channel type
+[22:37:32] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:37:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:37:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:37:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:37:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:37:32] [Server thread/INFO]: Preparing level "world"
+[22:37:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:37:33] [Server thread/INFO]: Time elapsed: 271 ms
+[22:37:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:37:33] [Server thread/INFO]: Time elapsed: 239 ms
+[22:37:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:37:33] [Server thread/INFO]: Time elapsed: 121 ms
+[22:37:33] [Server thread/INFO]: Running delayed init tasks
+[22:37:33] [Server thread/INFO]: Done (3.375s)! For help, type "help"
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_271
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[22:37:33] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[22:37:33] [Server thread/INFO]: Timings Reset
+[22:50:40] [Server thread/INFO]: Made ichigo a server operator
+[22:53:47] [User Authenticator #1/INFO]: UUID of player ichigo is 05290dc0-f4ff-3510-bfe5-601ec1ae6132
+[22:53:51] [Server thread/INFO]: ichigo joined the game
+[22:53:52] [Server thread/INFO]: ichigo[/127.0.0.1:62825] logged in with entity id 141 at ([world]742.6925151130984, 64.0, -1144.300000011921)
+[22:57:02] [Server thread/INFO]: ichigo lost connection: Disconnected
+[22:57:02] [Server thread/INFO]: ichigo left the game
+[22:59:15] [User Authenticator #2/INFO]: UUID of player r3s0n is 83f58d98-cc73-3506-bd3c-81e0d8485ecf
+[22:59:16] [Server thread/INFO]: r3s0n joined the game
+[22:59:16] [Server thread/INFO]: r3s0n[/10.147.20.12:51034] logged in with entity id 563 at ([world]936.3270312028357, 125.5625, -1158.9867801839073)
+[22:59:36] [User Authenticator #2/INFO]: UUID of player ichigo is 05290dc0-f4ff-3510-bfe5-601ec1ae6132
+[22:59:36] [Server thread/INFO]: ichigo joined the game
+[22:59:36] [Server thread/INFO]: ichigo[/127.0.0.1:49559] logged in with entity id 847 at ([world]747.9886482580115, 70.0, -1145.8809032126098)
+[23:04:12] [Server thread/INFO]: r3s0n fell from a high place
+[23:08:16] [Server thread/INFO]: ichigo has made the advancement [Take Aim]
+[23:10:03] [Async Chat Thread - #0/INFO]: <ichigo> can u fix this ice forming?
+[23:10:15] [Async Chat Thread - #0/INFO]: <ichigo> u can keep torches on top
+[23:15:03] [Async Chat Thread - #1/INFO]: <ichigo> slep?
+[23:15:27] [Async Chat Thread - #1/INFO]: <ichigo> come slep
+[23:15:33] [Async Chat Thread - #1/INFO]: <ichigo> aslep
+[23:15:36] [Async Chat Thread - #1/INFO]: <ichigo> im aslep
+[23:19:57] [Server thread/INFO]: ichigo lost connection: Disconnected
+[23:19:57] [Server thread/INFO]: ichigo left the game
+[23:28:20] [Server thread/WARN]: r3s0n was kicked for floating too long!
+[23:28:20] [Server thread/INFO]: r3s0n lost connection: Flying is not enabled on this server
+[23:28:20] [Server thread/INFO]: r3s0n left the game
+[23:28:34] [User Authenticator #3/INFO]: UUID of player r3s0n is 83f58d98-cc73-3506-bd3c-81e0d8485ecf
+[23:28:35] [Server thread/INFO]: r3s0n joined the game
+[23:28:35] [Server thread/INFO]: r3s0n[/10.147.20.12:65317] logged in with entity id 4650 at ([world]899.1082880468115, 61.994864015145325, -875.862833578633)
+[23:35:35] [Server thread/INFO]: r3s0n lost connection: Disconnected
+[23:35:35] [Server thread/INFO]: r3s0n left the game
+[23:35:35] [Server thread/INFO]: Stopping the server
+[23:35:35] [Server thread/INFO]: Stopping server
+[23:35:36] [Server thread/INFO]: Saving players
+[23:35:36] [Server thread/INFO]: Saving worlds
+[23:35:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:35:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:35:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:35:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:35:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:35:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:35:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:35:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:35:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:36:00] [Server thread/INFO]: Flushing Chunk IO
+[23:36:00] [Server thread/INFO]: Closing Thread Pool
+[23:36:00] [Server thread/INFO]: Closing Server
