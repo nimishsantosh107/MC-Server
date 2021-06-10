@@ -526,6 +526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2021-06-10 16:55:38 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-07 20:42:12 +0530"
@@ -977,6 +983,7 @@
       "minecraft:deep_cold_ocean": "2021-06-07 20:03:13 +0530",
       "minecraft:deep_frozen_ocean": "2021-06-07 20:03:19 +0530",
       "minecraft:jungle": "2021-06-07 19:00:07 +0530",
+      "minecraft:birch_forest": "2021-06-10 16:56:33 +0530",
       "minecraft:jungle_hills": "2021-06-07 18:53:07 +0530",
       "minecraft:bamboo_jungle": "2021-06-07 19:00:46 +0530",
       "minecraft:beach": "2021-06-07 20:04:34 +0530",
@@ -1261,6 +1268,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-06-10 16:28:31 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-06-07 19:24:26 +0530"
@@ -1466,6 +1479,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2021-06-07 20:07:52 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-06-10 16:28:31 +0530"
     },
     "done": true
   },

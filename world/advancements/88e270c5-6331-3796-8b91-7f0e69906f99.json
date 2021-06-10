@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-06-10 16:21:56 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2021-06-07 20:07:13 +0530"
@@ -329,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2021-06-10 16:46:17 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2021-06-07 22:42:23 +0530"
@@ -379,6 +391,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2021-06-10 16:55:57 +0530",
       "cooked_mutton": "2021-06-07 20:19:10 +0530",
       "potato": "2021-06-07 20:14:49 +0530",
       "cooked_cod": "2021-06-10 19:41:45 +0530",
@@ -432,6 +445,12 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2021-06-10 19:54:48 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2021-06-10 16:44:06 +0530"
     },
     "done": true
   },
@@ -492,6 +511,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2021-06-07 20:21:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-06-10 16:21:56 +0530"
     },
     "done": true
   },
@@ -1658,6 +1683,7 @@
       "minecraft:deep_cold_ocean": "2021-06-07 20:03:26 +0530",
       "minecraft:deep_frozen_ocean": "2021-06-07 20:03:23 +0530",
       "minecraft:jungle": "2021-06-07 19:34:30 +0530",
+      "minecraft:birch_forest": "2021-06-10 16:56:10 +0530",
       "minecraft:jungle_hills": "2021-06-07 19:32:07 +0530",
       "minecraft:bamboo_jungle": "2021-06-07 19:38:36 +0530",
       "minecraft:beach": "2021-06-07 20:04:47 +0530",
