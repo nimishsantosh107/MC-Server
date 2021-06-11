@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2021-06-07 19:37:59 +0530"
@@ -396,6 +402,7 @@
       "potato": "2021-06-07 20:14:49 +0530",
       "cooked_cod": "2021-06-10 19:41:45 +0530",
       "salmon": "2021-06-07 19:43:48 +0530",
+      "cooked_chicken": "2021-06-11 22:35:13 +0530",
       "cooked_salmon": "2021-06-07 21:53:51 +0530"
     },
     "done": false
@@ -442,15 +449,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/jungle_button": {
-    "criteria": {
-      "has_planks": "2021-06-10 19:54:48 +0530"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2021-06-10 16:44:06 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2021-06-10 19:54:48 +0530"
     },
     "done": true
   },
@@ -469,6 +476,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-06-07 22:33:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
     },
     "done": true
   },
@@ -814,6 +827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2021-06-11 22:31:19 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-07 20:10:59 +0530"
@@ -930,6 +949,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2021-06-11 22:30:27 +0530",
       "minecraft:skeleton": "2021-06-07 19:41:39 +0530",
       "minecraft:spider": "2021-06-07 20:36:07 +0530",
       "minecraft:creeper": "2021-06-07 23:37:52 +0530",
@@ -971,6 +991,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2021-06-07 22:33:49 +0530"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2021-06-11 22:37:54 +0530"
     },
     "done": true
   },
@@ -1043,6 +1069,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-06-07 19:58:20 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
     },
     "done": true
   },
@@ -1127,6 +1159,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-06-07 20:10:59 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
     },
     "done": true
   },
@@ -1265,6 +1303,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2021-06-07 22:33:29 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
     },
     "done": true
   },
@@ -1502,6 +1546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2021-06-07 19:50:04 +0530"
@@ -1646,6 +1696,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2021-06-11 22:37:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-06-07 19:37:43 +0530"
@@ -1787,9 +1843,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2021-06-11 22:37:43 +0530"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-06-09 00:52:10 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
     },
     "done": true
   },
@@ -1880,6 +1948,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2021-06-10 20:00:15 +0530"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-06-11 22:31:19 +0530"
     },
     "done": true
   },
